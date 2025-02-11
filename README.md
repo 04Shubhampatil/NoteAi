@@ -1,0 +1,2 @@
+# NoteAi
+Noteai
