@@ -1,4 +1,5 @@
-  AI-Powered Notes App        
+#Note Ai
+  AI-Powered Notes App Usin gemini API  
 
 Our AI-powered Notes App is designed to revolutionize the way you organize and retrieve information. 
           By leveraging advanced artificial intelligence, this app not only allows you to create and manage notes 
